@@ -1,0 +1,12 @@
+name: CentralLimit
+title: CentralLimit
+username:
+account: adraper2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 339440
+bundleId: 1365611
+url: https://adraper2.shinyapps.io/CentralLimit/
+when: 1525904396.54143
+asMultiple: FALSE
+asStatic: FALSE
